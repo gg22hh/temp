@@ -1,0 +1,15 @@
+.post__item {
+	max-width: 350px;
+}
+.post__item-img {
+	margin-bottom: 10px;
+}
+.post__item-title {
+	font-size: 25px;
+	border-bottom: 2px solid crimson;
+	width: 100px;
+	margin-bottom: 10px;
+}
+.post__item-text {
+	margin-bottom: 10px;
+}
